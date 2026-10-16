@@ -1,0 +1,13 @@
+# Datos personales de la cartera: nunca subirlos
+cartera.json
+cartera*.json
+*.bak
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
